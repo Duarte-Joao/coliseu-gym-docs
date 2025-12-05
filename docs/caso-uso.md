@@ -1,7 +1,8 @@
 # 4. Diagrama de Caso de Uso
 
-👉 Cole aqui a imagem do diagrama:  
-`![Diagrama de Caso de Uso](./images/diagrama-caso-uso.png)`
+A seguir está o diagrama de caso de uso completo do sistema Coliseum Gym:
+
+<img src="./images/diagrama-caso-uso.png" width="700" alt="Diagrama de Caso de Uso" />
 
 ---
 
@@ -44,6 +45,6 @@
 
 ## Caso de Uso 04 — Registrar Pagamento
 **Atores:** Administrador  
-**Descrição:** Pagamento registrado e aluno tem status atualizado para ativo.  
+**Descrição:** O administrador registra o pagamento do aluno, atualizando seu status para ativo.  
 
 ---

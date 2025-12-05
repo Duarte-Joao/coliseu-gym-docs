@@ -15,8 +15,7 @@ O sistema permitirá:
 
 ---
 
-## 2.1.1 Canvas do Projeto
-👉 **Cole aqui a imagem do Canvas após exportar do Sebrae Tools**  
+## 2.1.1 Canvas do Projeto 
 `docs/images/canvas.png`
 
 ---

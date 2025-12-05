@@ -20,7 +20,7 @@ export default {
           { text: "Introdução", link: "/introducao" },
           { text: "Descrição do Projeto", link: "/descricao-projeto" },
           { text: "Requisitos", link: "/requisitos" },
-          { text: "Casos de Uso", link: "/casos-uso" },
+          { text: "Casos de Uso", link: "/caso-uso" },
           { text: "Diagrama de Classes", link: "/classes" },
           { text: "Protótipos de Telas", link: "/prototipos" },
           { text: "Cronograma", link: "/cronograma" },

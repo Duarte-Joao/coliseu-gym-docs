@@ -1,0 +1,122 @@
+/* ================================ */
+/*       PALETA ROXA DO PROJETO     */
+/* ================================ */
+
+:root {
+  --vp-c-brand: #7c3aed;        
+  --vp-c-brand-light: #a78bfa;  
+  --vp-c-brand-dark: #5b21b6;   
+
+  --vp-c-text-strong: #1a1a1a;
+  --vp-c-bg-soft: #f5f3ff;      
+}
+
+/* ================================ */
+/*        SIDEBAR PERSONALIZADO     */
+/* ================================ */
+
+.VPSidebar {
+  background-color: #f5f3ff;         
+  border-right: 2px solid #dcd0ff;    
+}
+
+.VPSidebar a {
+  color: #5b21b6 !important;          
+  font-weight: 500;
+}
+
+.VPSidebar a:hover {
+  color: #7c3aed !important;       
+}
+
+.VPSidebarItem.is-active > a {
+  color: white !important;
+  background: linear-gradient(90deg, #7c3aed, #5b21b6);
+  border-radius: 6px;
+  padding-left: 10px;
+}
+
+/* ================================ */
+/*          TÍTULOS DA PÁGINA       */
+/* ================================ */
+
+h1, h2, h3 {
+  color: #5b21b6 !important;
+  font-weight: 700;
+}
+
+/* ================================ */
+/*      LINKS DO CORPO DO TEXTO     */
+/* ================================ */
+
+a:not(.VPSidebar a) {
+  color: #7c3aed;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+/* ================================ */
+/*      CAIXAS DE CÓDIGO / INFO     */
+/* ================================ */
+
+.vp-doc .custom-block {
+  border-left: 4px solid #7c3aed;
+  background-color: #f5f3ff;
+}
+
+/* ================================ */
+/*      BOTÕES (quando existir)     */
+/* ================================ */
+
+button {
+  background: #7c3aed;
+  color: white;
+  border-radius: 6px;
+  padding: 6px 12px;
+  border: none;
+}
+
+button:hover {
+  background: #5b21b6;
+}
+
+/* ================================ */
+/*      IMAGENS PADRONIZADAS        */
+/* ================================ */
+
+.prototype-img,
+img {
+  border-radius: 10px;
+  box-shadow: 0 0 10px #0002;
+}
+
+table {
+  border-collapse: collapse;
+  width: 100%;
+  margin: 20px 0;
+  background: #ffffff10; 
+  border-radius: 6px;
+  overflow: hidden;
+}
+
+th, td {
+  padding: 10px;
+  border: 1px solid #ffffff22;
+}
+
+th {
+  background: #7c3aed; 
+  color: white;
+  text-align: left;
+}
+
+td {
+  background: #f5f3ff; 
+  color: #1a1a1a;
+}
+
+tr:nth-child(even) td {
+  background: #ede9fe;
+}

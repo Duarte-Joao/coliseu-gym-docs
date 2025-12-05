@@ -1,7 +1,6 @@
 # 5. Diagrama de Classes
 
-👉 Cole aqui a imagem do diagrama:  
-`![Diagrama de Classes](./images/diagrama-classes.png)`
+[Diagrama de Classes](./images/diagrama-classes.png)
 
 ---
 

@@ -7,7 +7,7 @@ Esta documentação contém:
 - [Introdução](introducao.md)
 - [Descrição do Projeto](descricao-projeto.md)
 - [Requisitos do Sistema](requisitos.md)
-- [Casos de Uso](casos-uso.md)
+- [Casos de Uso](caso-uso.md)
 - [Diagrama de Classes](classes.md)
 - [Protótipos das Telas](prototipos.md)
 - [Cronograma do Projeto](cronograma.md)
