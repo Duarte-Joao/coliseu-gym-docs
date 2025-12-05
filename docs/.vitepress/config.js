@@ -2,6 +2,11 @@ export default {
   title: "Coliseum Gym - Documentação",
   description: "Documentação oficial do sistema Coliseum Gym",
 
+
+  head: [
+  ['link', { rel: 'icon', href: '/logo.png' }]
+  ],
+
   themeConfig: {
     nav: [
       { text: "Início", link: "/" },

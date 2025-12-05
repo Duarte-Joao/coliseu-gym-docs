@@ -1,4 +1,4 @@
-# Documentação do Sistema — Coliseum Gym
+# 🏋️ Coliseum Gym – Documentação Oficial
 
 Bem-vindo à documentação oficial do sistema Coliseum Gym.
 
