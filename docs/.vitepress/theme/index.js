@@ -4,18 +4,26 @@ import './custom.css'
 
 export default {
   ...DefaultTheme,
-  enhanceApp({ app }) {
-    // nada, mas mantém compatibilidade
-  },
+
   Layout() {
+    const layout = DefaultTheme.Layout
+
     return {
-      ...DefaultTheme.Layout,
-      slots: {
-        'nav-bar-title-after': () =>
-          h('img', {
-            src: '/logo.png',
-            style: 'height: 35px; margin-left: 10px'
-          })
+      name: 'CustomLayout',
+
+      setup() {
+        return () => h(
+          layout,
+          null,
+          {
+            // Slot oficial para adicionar conteúdo depois do título da navbar
+            'nav-bar-title-after': () =>
+              h('img', {
+                src: '/logo.png',
+                style: 'height: 35px; margin-left: 10px'
+              })
+          }
+        )
       }
     }
   }
