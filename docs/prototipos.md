@@ -20,7 +20,7 @@ As imagens foram redimensionadas para 300px para manter a visualização organiz
 <img src="./images/treinoList.png" width="300" alt="Treino Específico" />
 
 ### Tela — Lista de Aulas Coletivas
-<img src="./images/aulasCALunos.png" width="300" alt="Aulas Coletivas" />
+<img src="./images/aulasALunos.png" width="300" alt="Aulas Coletivas" />
 
 ### Tela — Passe do Aluno
 <img src="./images/passe.png" width="300" alt="Passe do Aluno" />
