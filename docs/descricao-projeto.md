@@ -16,7 +16,9 @@ O sistema permitirá:
 ---
 
 ## 2.1.1 Canvas do Projeto 
-`docs/images/canvas.png`
+<img src="./images/canvas1.png" width="700" alt="Canvas1" />
+<img src="./images/canvas2.png" width="700" alt="Canvas2" />
+<img src="./images/canvas3.png" width="700" alt="Canvas3" />
 
 ---
 
