@@ -2,7 +2,7 @@
 
 A seguir está o diagrama de caso de uso completo do sistema Coliseum Gym:
 
-<img src="./images/diagrama-caso-uso.png" width="700" alt="Diagrama de Caso de Uso" />
+<img src="./images/DiagramaCasoUso.png" width="700" alt="Diagrama de Caso de Uso" />
 
 ---
 

@@ -1,7 +1,7 @@
 # 5. Diagrama de Classes
 
 [Diagrama de Classes]
-<img src="./images/diagrama-classes.png" width="700" alt="Diagrama de Caso de Uso" />
+<img src="./images/DiagramaClasse.png" width="700" alt="Diagrama de Caso de Uso" />
 
 ---
 
